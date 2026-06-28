@@ -24,12 +24,11 @@
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/8f7892e9-58f1-404e-996c-6e1b1204216f" />
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/82761c19-9527-4394-9178-7cbab17e0c46" />
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/70040cfa-5e84-4c54-931a-84d43ea27a1b" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/fd53aa7b-3025-4650-ab9e-92ae8efd3c87" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/28366288-e5fa-4f71-8694-692dad1ca5de" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/c36ac0d4-3345-4a10-84fc-255646ed1edf" />
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/b2c20af6-ccc4-49c1-8363-d4d90254dfd2" />
 
-<img src="image9.png" width="320">
-<img src="image10.png" width="320">
-<img src="image11.png" width="320">
-<img src="image12.png" width="320">
-<img src="image13.png" width="320">
 
 
 ## 一、传统营销团队痛点
